@@ -1,7 +1,4 @@
 # The-Obvious-Accord
-There are some protocols which are implied under the subjective usage of the word `obvious`. Here is a formal incomplete list of them.
+There are some things which are super obvious. But people still like to ask about it.
 
-### Protocol-1 | Pretty obvious if you think about it
-If something seems to be obvious, that's what obvious means. No-one needs to know if the former statement was the first argument, i.e., circular argument of Munchhausen trilemma. It is pretty obvious in itself if you think about it.
-
- 
+This is a place to collect that.
